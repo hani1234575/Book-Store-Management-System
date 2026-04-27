@@ -1,0 +1,8 @@
+C:\Users\Elite\Desktop\Holiday projects\BookStore\Main_namespace\bin\Debug\Main_namespace.exe.config
+C:\Users\Elite\Desktop\Holiday projects\BookStore\Main_namespace\bin\Debug\Main_namespace.exe
+C:\Users\Elite\Desktop\Holiday projects\BookStore\Main_namespace\bin\Debug\Main_namespace.pdb
+C:\Users\Elite\Desktop\Holiday projects\BookStore\Main_namespace\obj\Debug\Main_namespace.csproj.AssemblyReference.cache
+C:\Users\Elite\Desktop\Holiday projects\BookStore\Main_namespace\obj\Debug\Main_namespace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elite\Desktop\Holiday projects\BookStore\Main_namespace\obj\Debug\Main_namespace.csproj.CoreCompileInputs.cache
+C:\Users\Elite\Desktop\Holiday projects\BookStore\Main_namespace\obj\Debug\Main_namespace.exe
+C:\Users\Elite\Desktop\Holiday projects\BookStore\Main_namespace\obj\Debug\Main_namespace.pdb
